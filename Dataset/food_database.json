@@ -1,0 +1,642 @@
+{
+  "సామలు": {
+    "english": "Little Millet",
+    "hindi": "कुटकी",
+    "tamil": "சாமை",
+    "kannada": "ಸಾವೆ",
+    "category": "Millet",
+    "type": "Ancient Grain",
+    "benefits": ["High in fiber", "Gluten-free", "Rich in iron", "Good for diabetes", "Weight management"],
+    "nutrition": {"protein": "7.7g", "fiber": "7.6g", "iron": "9.3mg", "calcium": "17mg"}
+  },
+  "రాగులు": {
+    "english": "Finger Millet",
+    "hindi": "रागी",
+    "tamil": "கேழ்வரகு",
+    "kannada": "ರಾಗಿ",
+    "category": "Millet",
+    "type": "Ancient Grain",
+    "benefits": ["High calcium", "Rich in amino acids", "Good for bones", "Natural relaxant", "Anti-aging"],
+    "nutrition": {"protein": "7.3g", "fiber": "3.6g", "calcium": "344mg", "iron": "3.9mg"}
+  },
+  "బజ్రా": {
+    "english": "Pearl Millet",
+    "hindi": "बाजरा",
+    "tamil": "கம்பு",
+    "kannada": "ಸಜ್ಜೆ",
+    "category": "Millet",
+    "type": "Ancient Grain",
+    "benefits": ["High energy", "Rich in iron", "Prevents anemia", "Good for heart"],
+    "nutrition": {"protein": "11.6g", "fiber": "1.2g", "iron": "8.0mg", "magnesium": "137mg"}
+  },
+  "కొర్రలు": {
+    "english": "Foxtail Millet",
+    "hindi": "कंगनी",
+    "tamil": "தினை",
+    "kannada": "ನವಣೆ",
+    "category": "Millet",
+    "type": "Ancient Grain",
+    "benefits": ["Blood sugar control", "Heart health", "Weight loss", "Rich in protein"],
+    "nutrition": {"protein": "12.3g", "fiber": "8.0g", "iron": "2.8mg", "zinc": "2.4mg"}
+  },
+  "అరికేలు": {
+    "english": "Kodo Millet",
+    "hindi": "कोदो",
+    "tamil": "வரகு",
+    "kannada": "ಹಾರಕ",
+    "category": "Millet",
+    "type": "Ancient Grain",
+    "benefits": ["High antioxidants", "Reduces cholesterol", "Good for liver", "Anti-diabetic"],
+    "nutrition": {"protein": "8.3g", "fiber": "9.0g", "iron": "0.5mg", "calcium": "27mg"}
+  },
+  "ఉదలు": {
+    "english": "Barnyard Millet",
+    "hindi": "सांवा",
+    "tamil": "குதிரைவாலி",
+    "kannada": "ಒಡಲು",
+    "category": "Millet",
+    "type": "Ancient Grain",
+    "benefits": ["Low glycemic index", "Rich in fiber", "Good for heart", "Weight loss"],
+    "nutrition": {"protein": "11.2g", "fiber": "10.1g", "iron": "15.2mg", "calcium": "20mg"}
+  },
+  "ప్రోసో మిల్లెట్": {
+    "english": "Proso Millet",
+    "hindi": "चीना",
+    "tamil": "பனிவரகு",
+    "kannada": "ಬ್ರಹ್ಮಣ",
+    "category": "Millet",
+    "type": "Ancient Grain",
+    "benefits": ["Easy to digest", "Low glycemic index", "Antioxidant properties", "Heart healthy"],
+    "nutrition": {"protein": "11.0g", "fiber": "8.5g", "magnesium": "153mg", "phosphorus": "206mg"}
+  },
+  "జొన్న": {
+    "english": "Sorghum",
+    "hindi": "ज्वार",
+    "tamil": "சோளம்",
+    "kannada": "ಜೋಳ",
+    "category": "Millet",
+    "type": "Ancient Grain",
+    "benefits": ["Gluten-free", "Rich in protein", "Good for bones", "Improves digestion"],
+    "nutrition": {"protein": "10.4g", "fiber": "6.7g", "iron": "4.1mg", "calcium": "25mg"}
+  },
+  "గోధుమ": {
+    "english": "Wheat",
+    "hindi": "गेहूं",
+    "tamil": "கோதுமை",
+    "kannada": "ಗೋಧಿ",
+    "category": "Grain",
+    "type": "Cereal",
+    "benefits": ["High fiber", "Good for digestion", "Energy source", "B vitamins", "Heart health"],
+    "nutrition": {"protein": "11.8g", "fiber": "12.2g", "iron": "5.4mg", "zinc": "4.2mg"}
+  },
+  "బియ్యం": {
+    "english": "Rice",
+    "hindi": "चावल",
+    "tamil": "அரிசி",
+    "kannada": "ಅಕ್ಕಿ",
+    "category": "Grain",
+    "type": "Cereal",
+    "benefits": ["Easy to digest", "Gluten-free", "Energy source", "Low sodium", "Quick energy"],
+    "nutrition": {"protein": "6.8g", "fiber": "0.4g", "thiamine": "0.07mg", "niacin": "1.6mg"}
+  },
+  "వోట్స్": {
+    "english": "Oats",
+    "hindi": "ओट्स",
+    "tamil": "ஓட்ஸ்",
+    "kannada": "ಓಟ್ಸ್",
+    "category": "Grain",
+    "type": "Cereal",
+    "benefits": ["Lowers cholesterol", "Heart health", "Weight management", "Stable blood sugar", "High fiber"],
+    "nutrition": {"protein": "16.9g", "fiber": "10.6g", "manganese": "4.9mg", "phosphorus": "523mg"}
+  },
+  "క్వినోవా": {
+    "english": "Quinoa",
+    "hindi": "क्विनोआ",
+    "tamil": "க்வினோவா",
+    "kannada": "ಕ್ವಿನೋವಾ",
+    "category": "Grain",
+    "type": "Pseudocereal",
+    "benefits": ["Complete protein", "Gluten-free", "High fiber", "Rich in minerals", "Antioxidants"],
+    "nutrition": {"protein": "14.1g", "fiber": "7.0g", "iron": "4.6mg", "magnesium": "197mg"}
+  },
+  "కంది పప్పు": {
+    "english": "Toor Dal",
+    "hindi": "तूर दाल",
+    "tamil": "துவரம் பருப்பு",
+    "kannada": "ತೊಗರಿ ಬೇಳೆ",
+    "category": "Pulse",
+    "type": "Legume",
+    "benefits": ["High protein", "Rich in folate", "Heart healthy", "Lowers cholesterol", "Good for digestion"],
+    "nutrition": {"protein": "22.3g", "fiber": "15.5g", "folate": "449mcg", "potassium": "1392mg"}
+  },
+  "పెసర పప్పు": {
+    "english": "Moong Dal",
+    "hindi": "मूंग दाल",
+    "tamil": "பயத்தம் பருப்பு",
+    "kannada": "ಹೆಸರು ಕಾಳು",
+    "category": "Pulse",
+    "type": "Legume",
+    "benefits": ["Easy to digest", "Cooling effect", "Rich in antioxidants", "Weight loss", "Skin health"],
+    "nutrition": {"protein": "24.0g", "fiber": "16.3g", "folate": "625mcg", "magnesium": "189mg"}
+  },
+  "మినప పప్పు": {
+    "english": "Urad Dal",
+    "hindi": "उड़द दाल",
+    "tamil": "உழுந்து",
+    "kannada": "ಮಾಷ್ ಪರಿಪ್ಪು",
+    "category": "Pulse",
+    "type": "Legume",
+    "benefits": ["High protein", "Good for bones", "Improves digestion", "Boosts energy", "Rich in iron"],
+    "nutrition": {"protein": "25.2g", "fiber": "18.3g", "iron": "7.6mg", "calcium": "138mg"}
+  },
+  "శనగ పప్పు": {
+    "english": "Chana Dal",
+    "hindi": "चना दाल",
+    "tamil": "கடலை பருப்பு",
+    "kannada": "ಕಡಲೆ ಕಾಳು",
+    "category": "Pulse",
+    "type": "Legume",
+    "benefits": ["High fiber", "Blood sugar control", "Heart health", "Weight management", "Rich in protein"],
+    "nutrition": {"protein": "20.1g", "fiber": "30.5g", "folate": "557mcg", "manganese": "1.7mg"}
+  },
+  "మెంతులు": {
+    "english": "Fenugreek",
+    "hindi": "मेथी",
+    "tamil": "வெந்தயம்",
+    "kannada": "ಮೆಂತ್ಯ",
+    "category": "Spice",
+    "type": "Seed",
+    "benefits": ["Blood sugar control", "Digestive health", "Anti-inflammatory", "Cholesterol reduction"],
+    "nutrition": {"protein": "23.0g", "fiber": "24.6g", "iron": "33.5mg", "magnesium": "191mg"}
+  },
+  "జిలకర్ర": {
+    "english": "Cumin",
+    "hindi": "जीरा",
+    "tamil": "சீரகம்",
+    "kannada": "ಜೀರಿಗೆ",
+    "category": "Spice",
+    "type": "Seed",
+    "benefits": ["Improves digestion", "Rich in iron", "Antioxidant properties", "Weight loss"],
+    "nutrition": {"protein": "17.8g", "fiber": "10.5g", "iron": "66.4mg", "calcium": "931mg"}
+  },
+  "నువ్వులు": {
+    "english": "Sesame Seeds",
+    "hindi": "तिल",
+    "tamil": "எள்",
+    "kannada": "ಎಳ್ಳು",
+    "category": "Seeds",
+    "type": "Oilseed",
+    "benefits": ["High calcium", "Healthy fats", "Bone health", "Heart health", "Skin health"],
+    "nutrition": {"protein": "17.7g", "fiber": "11.8g", "calcium": "975mg", "magnesium": "351mg"}
+  },
+  "చియా సీడ్స్": {
+    "english": "Chia Seeds",
+    "hindi": "चिया सीड",
+    "tamil": "சியா விதைகள்",
+    "kannada": "ಚಿಯಾ ಬೀಜಗಳು",
+    "category": "Seeds",
+    "type": "Superfood",
+    "benefits": ["Omega-3 fatty acids", "High fiber", "Protein rich", "Antioxidants", "Weight management"],
+    "nutrition": {"protein": "16.5g", "fiber": "34.4g", "omega3": "17.8g", "calcium": "631mg"}
+  },
+  "అలసందలు": {
+    "english": "Black-eyed Peas",
+    "hindi": "लोबिया",
+    "tamil": "காராமணி",
+    "kannada": "ಅಲಸಂದೆ",
+    "category": "Pulse",
+    "type": "Legume",
+    "benefits": ["Rich in protein", "Good for heart", "Improves digestion", "Weight management"],
+    "nutrition": {"protein": "8.0g", "fiber": "6.6g", "iron": "2.5mg", "calcium": "41mg"}
+  },
+  "రాజగిర": {
+    "english": "Amaranth",
+    "hindi": "राजगीरा",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "బక్వీట్": {
+    "english": "Buckwheat",
+    "hindi": "कुट्टू",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "బ్రూమ్‌కార్న్ మిల్లెట్": {
+    "english": "Broomcorn Millet",
+    "hindi": "चेन",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "బ్రౌన్‌టాప్ మిల్లెట్": {
+    "english": "Browntop Millet",
+    "hindi": "होरा",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "చీనా మిల్లెట్": {
+    "english": "Cheena Millet",
+    "hindi": "चीना",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "కని మిల్లెట్": {
+    "english": "Kani Millet",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "తెనె మిల్లెట్": {
+    "english": "Tene Millet",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "ఊడలు మిల్లెట్": {
+    "english": "Oodalu Millet",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "సామై మిల్లెట్": {
+    "english": "Samai Millet",
+    "hindi": "सामई",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "సామా మిల్లెట్": {
+    "english": "Sama Millet",
+    "hindi": "समान",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "నవనే మిల్లెట్": {
+    "english": "Navane Millet",
+    "hindi": "नवेने",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "కోడిసామ మిల్లెట్": {
+    "english": "Kodisama Millet",
+    "hindi": "कोडिसमा",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "ధన్వా మిల్లెట్": {
+    "english": "Dhanwa Millet",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "సజ్జె మిల్లెట్": {
+    "english": "Sajje Millet",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "నాగ్లీ మిల్లెట్": {
+    "english": "Nagli Millet",
+    "hindi": "नागळी",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మండువా మిల్లెట్": {
+    "english": "Mandua Millet",
+    "hindi": "मंडुआ",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "బబ్బర మిల్లెట్": {
+    "english": "Babbara Millet",
+    "hindi": "बाजरी",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "కుట్కి మిల్లెట్": {
+    "english": "Kutki Short Millet",
+    "hindi": "कुटकी",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "రాజగిర మినిట్": {
+    "english": "Rajgira Minute",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "సియోమ్ మిల్లెట్": {
+    "english": "Seom Millet",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "తెనె మిల్లెట్ 2": {
+    "english": "Thene Millet",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 29": {
+    "english": "Millet 29",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 30": {
+    "english": "Millet 30",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 31": {
+    "english": "Millet 31",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 32": {
+    "english": "Millet 32",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 33": {
+    "english": "Millet 33",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 34": {
+    "english": "Millet 34",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 35": {
+    "english": "Millet 35",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 36": {
+    "english": "Millet 36",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 37": {
+    "english": "Millet 37",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 38": {
+    "english": "Millet 38",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 39": {
+    "english": "Millet 39",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 40": {
+    "english": "Millet 40",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 41": {
+    "english": "Millet 41",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 42": {
+    "english": "Millet 42",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 43": {
+    "english": "Millet 43",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 44": {
+    "english": "Millet 44",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 45": {
+    "english": "Millet 45",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 46": {
+    "english": "Millet 46",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 47": {
+    "english": "Millet 47",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 48": {
+    "english": "Millet 48",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 49": {
+    "english": "Millet 49",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  },
+  "మిల్లెట్ 50": {
+    "english": "Millet 50",
+    "hindi": "",
+    "tamil": "",
+    "kannada": "",
+    "category": "Millet",
+    "type": "",
+    "benefits": [],
+    "nutrition": {}
+  }
+} 
